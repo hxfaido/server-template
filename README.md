@@ -1,1 +1,2 @@
-轻量级nodejs server框架，可用于游戏服务器，web后台开发
+简单服务器模板，方便快速开始消息处理和逻辑开发。  
+先安装framework : https://github.com/hxfaido/nodejs-faido
